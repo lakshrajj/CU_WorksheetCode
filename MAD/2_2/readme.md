@@ -1,0 +1,4 @@
+-> Create New Project as Kotlin
+-> Give app sms permission from your Phone Settings.
+-> Must add Permission in Android Manifest file.
+-> Keep the Package Name same as your Default.
