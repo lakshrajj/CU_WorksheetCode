@@ -1,3 +1,4 @@
+## Must Do ##
 -> Create New Project as Kotlin<br />
 -> Give app sms permission from your Phone Settings.<br />
 -> Must add Permission in Android Manifest file.<br />
